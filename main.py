@@ -17,4 +17,3 @@ print(" -> ".join(map(str, sequence)))
 print(f"Sequence had {steps} total steps.")
 
 print("Program ending.")
-```[cite: 4, 5]
